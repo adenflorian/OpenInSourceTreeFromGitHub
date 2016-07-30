@@ -1,7 +1,7 @@
 {
   "name": "openinsourcetreeforgithub",
   "description": "Lets you open GitHub repos in SourceTree",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "David Valachovic",
   "engines": {
     "firefox": ">=38.0a1",
@@ -17,5 +17,5 @@
   "permissions": {
     "multiprocess": true
   },
-  "title": "OpenInSourceTreeFromGitHub",
+  "title": "OpenInSourceTreeFromGitHub"
 }
