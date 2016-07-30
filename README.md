@@ -1,2 +1,2 @@
-# OpenInSourceTreeFromGitHub
-A Firefox addon that lets you open GitHub repos in SourceTree
+#OpenInSourceTreeFromGitHub
+Lets you open GitHub repos in SourceTree
