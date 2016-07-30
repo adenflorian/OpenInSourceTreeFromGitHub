@@ -1,7 +1,7 @@
 {
   "name": "openinsourcetreeforgithub",
   "description": "Lets you open GitHub repos in SourceTree",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "David Valachovic",
   "engines": {
     "firefox": ">=38.0a1",
