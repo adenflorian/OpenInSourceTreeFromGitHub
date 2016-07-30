@@ -1,2 +1,3 @@
 *.xpi
-jpm_api.bat
+*.bat
+*.zip
